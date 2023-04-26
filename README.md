@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Radhika
+- 👋 Hi, I’m Radhika Dwivedi
 - 👀 I’m interested in ...data science, data analytics, business analytics
 - 🌱 I’m currently learning ... Full stack Data science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...radhikadwivedi19@gmail.com
 
 <!---
